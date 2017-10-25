@@ -1,4 +1,4 @@
-﻿State,"Uninsured Rate (2010, %)","Uninsured Rate (2015, %)","Percentage Point Decrease in Uninsured Rate (2010-2015, %)","People Gaining Coverage (2010-2015, %)",,
+﻿state,uninsured_rate_2010,uninsured_rate_2015,percent_decrease_uninsured_2010_2015,people_gaining_coverage_2010_2015,,
 Alabama ,14.6,10.1, 4.5 ," 215,000 ",,
 Alaska ,19.9,14.9, 5.0 ," 36,000 ",,
 Arizona ,16.9,10.8, 6.1 ," 410,000 ",,
